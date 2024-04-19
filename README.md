@@ -1,7 +1,7 @@
 
-# Small Projects
+# Small Programs
 
-One file projects in many programming languages.
+One file programs in many programming languages.
 
 ## Feedback
 
